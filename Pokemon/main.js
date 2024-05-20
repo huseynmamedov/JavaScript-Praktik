@@ -23,7 +23,7 @@ const colors = {
 
 
 
-let pokeCount = 20;
+let pokeCount = 300;
 
 const initPokemon = async () => {
     for (let i = 1; i <= pokeCount; i++) {
